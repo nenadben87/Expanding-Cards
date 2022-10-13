@@ -22,13 +22,13 @@ body {
   background: url('/img/bahamas-2.jpg');
 }
 .panel-3 {
-  background: url('/img/mountain.jpg');
+  background: url('./img/mountain.jpg');
 }
 .panel-4 {
-  background: url('/img/new-zealand-1.jpg');
+  background: url('./img/new-zealand-1.jpg');
 }
 .panel-5 {
-  background: url('/img/new-zealand-2.jpg');
+  background: url('./img/new-zealand-2.jpg');
 }  
 
 .panel-1, 
